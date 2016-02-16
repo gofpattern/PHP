@@ -26,4 +26,4 @@ this website is wholesolelly based on PHP.Its uses Static as well as Dynamic Pag
 *PHP Functions
 	-Body OnLoad functions are used to keep Processing of PHP files faster on the server.
 	-All pages are connected by DB
-This is just for testing
+
